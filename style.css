@@ -1,0 +1,16 @@
+.cool {
+    background-color: #ccc;
+    font-size: 2rem;
+    color: red;
+}li {
+    text-transform: capitalize;
+}
+.green{
+    color: green;
+}
+.red {
+    color: red;
+}
+.black {
+    color: black;
+}
